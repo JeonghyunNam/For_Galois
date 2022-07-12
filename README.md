@@ -14,3 +14,8 @@ Below images are the result
 * At the beginning of project, I use lattice for choosing coefficients. but it's not beatiful
 * So, I did random choose, until gathering 100 numbers of solvable by radicals equation.
 
+![ani](https://user-images.githubusercontent.com/87422054/178584282-f48841ed-49b5-4c7d-85e7-3ad0528e7570.gif)
+
+
+## References
+For determining solvability of polynomials, I use the equivalent statements which reported at https://www.ams.org/journals/mcom/1991-57-195/S0025-5718-1991-1079014-X/S0025-5718-1991-1079014-X.pdf(Dummit, 1991).
